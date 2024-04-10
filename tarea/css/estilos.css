@@ -1,0 +1,52 @@
+*{
+
+}
+h1{
+	color:white;
+}
+li{
+	color:white;
+}
+a{
+	text-decoration: none;
+	color:red;
+}
+h4{
+	color:white;
+}
+.img img{
+	float:left;
+	margin-left:450px ;
+	width: 400px;
+	height: 400px;
+}
+.container{
+	float:right;
+	
+	width: 1300px;
+	height: 450px;
+}
+.imga img{
+	float:left;
+	margin-left:300px;
+	width: 700px;
+	height: 450px;
+}
+.container2{
+	float:right;
+	width: 1300px;
+	height: 550px;
+	text-align: center;
+}
+.container3{
+	float:right;
+	width: 1300px;
+	height: 280px;
+	background-color: goldenrod;
+}
+h3{
+	color:white;
+}
+.lii li{
+	float:left;
+}
